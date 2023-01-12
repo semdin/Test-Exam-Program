@@ -1,0 +1,10 @@
+C:\Users\Semdin\Desktop\CSharpFormSinavProgrami\FormSinavProgrami\FormSinavProgrami\bin\Release\FormSinavProgrami.exe.config
+C:\Users\Semdin\Desktop\CSharpFormSinavProgrami\FormSinavProgrami\FormSinavProgrami\bin\Release\FormSinavProgrami.exe
+C:\Users\Semdin\Desktop\CSharpFormSinavProgrami\FormSinavProgrami\FormSinavProgrami\bin\Release\FormSinavProgrami.pdb
+C:\Users\Semdin\Desktop\CSharpFormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Release\FormSinavProgrami.Form1.resources
+C:\Users\Semdin\Desktop\CSharpFormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Release\FormSinavProgrami.FormAdSoyad.resources
+C:\Users\Semdin\Desktop\CSharpFormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Release\FormSinavProgrami.Properties.Resources.resources
+C:\Users\Semdin\Desktop\CSharpFormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Release\FormSinavProgrami.csproj.GenerateResource.Cache
+C:\Users\Semdin\Desktop\CSharpFormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Release\FormSinavProgrami.exe
+C:\Users\Semdin\Desktop\CSharpFormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Release\FormSinavProgrami.pdb
+C:\Users\Semdin\Desktop\CSharpFormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Release\FormSinavProgrami.csprojResolveAssemblyReference.cache
